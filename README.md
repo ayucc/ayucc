@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Ayushi Shrivastava @
-- 👀 I’m interested in DSA : Python : Cloud
-- 🌱 I’m currently learning DSA in Python
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Research Training
 - 😄 Pronouns: She/Her
 
